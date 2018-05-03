@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name = 'wordpress-cd-rancher',
-    version = '0.1.0',
+    version = '0.1.1',
     description = 'Wordpress CD driver to deploy sites to Rancher environments.',
     author = 'Ross Golder',
     author_email = 'ross@golder.org',
